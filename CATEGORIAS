@@ -1,35 +1,5 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601508.us.archive.org/18/items/filmes_20200711_2034/FILMES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/ATEM767/ATEM-REPOSIT-RIO/master/FILMES</externallink>
-<fanart>https://ia801400.us.archive.org/11/items/entrar_20200711/FANART.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS PARA TODA FAMILIA - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801404.us.archive.org/25/items/fanart_20200320/entrar.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801400.us.archive.org/11/items/entrar_20200711/FANART.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SÉRIES - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ANIMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/18/items/filmes_20200711_2034/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/ATEM767/ATEM-REPOSIT-RIO/master/ANIMES</externallink>
